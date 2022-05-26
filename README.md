@@ -2,6 +2,12 @@
    
 Author : Abhijit Nagargoje
 
+IDE:  Jupyter Notebook 
+
+Language: Python 3
+
+Libraries used : Pandas , Numpy , Sk-learn , Tensorflow , Keras
+
 Problem Statement:
 
 About Company:
